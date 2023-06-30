@@ -1,5 +1,9 @@
 {
-	"author": "Tim Bassignana",
+	"author": {
+		"name": "Tim Bassignana",
+		"email": "tim.bassignana@gmail.com",
+		"url": "https://github.io/tbassignana/boilerplate-npm"
+	},
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
